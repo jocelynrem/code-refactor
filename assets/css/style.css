@@ -18,6 +18,7 @@ p {
     font-size: 16px;
 }
 
+/* header and navigation */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -25,32 +26,26 @@ p {
     color: #ffffff;
 }
 
-    .header h1 {
-        display: inline-block;
-        font-size: 48px;
-    }
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
 
-    .header h1 .seo {
-        color: #d9dcd6;
-    }
+.header div ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 25px;
+}
 
-    .header div {
-        padding-top: 15px;
-        margin-right: 20px;
-        float: right;
-        font-size: 20px;
-    }
+.navigation {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-size: 20px;
+}
 
-    .header div ul {
-        list-style-type: none;
-    }
-
-    .header div ul li {
-        display: inline-block;
-        margin-left: 25px;
-    }
-
-.hero {
+/* image under the header */
+.team {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -66,14 +61,14 @@ p {
     margin-left: 20px;
 }
 
-    .content img {
-        max-height: 200px;
-    }
+.content img {
+    max-height: 200px;
+}
 
-    .content h2 {
-        margin-bottom: 20px;
-        font-size: 36px;
-    }
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 
 .content-box {
     margin-bottom: 20px;
@@ -104,23 +99,24 @@ p {
     background-color: #2589bd;
 }
 
-    .benefit-content {
-        margin-bottom: 32px;
-        color: #ffffff;
-    }
+.benefit-content {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
 
-    .benefit-content img {
-        display: block;
-        margin: 10px auto;
-        max-width: 150px;
-    }
+.benefit-content img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
 
-    .benefit-content h3 {
-        margin-top: 30px;
-        margin-bottom: 10px;
-        text-align: center;
-    }
+.benefit-content h3 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+}
 
+/* footer information */
 .footer {
     padding: 30px;
     clear: both;
@@ -128,6 +124,6 @@ p {
     text-align: center;
 }
 
-    .footer h2 {
-        font-size: 20px;
-    }
+.footer h2 {
+    font-size: 20px;
+}
