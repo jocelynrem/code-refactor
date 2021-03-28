@@ -1,17 +1,18 @@
 # Horiseon Accessibility Updates
 
-[Click here to access the updated Horiseon website](https://jocelynrem.github.io/horiseon/)
+>[Click here to access the updated Horiseon website](https://jocelynrem.github.io/horiseon/)
 
 ## Changes
 
 1. Images now have alt text for screen readers
 
-2. HTML is updated for semantics to make it easier to read
+2. HTML is updated for semantics
 
-3. CSS has been simplified to take out repetitive code
+3. CSS has been consolidated, organized, and commented
 
-4. 
+4. Links all function correctly
 
+## Website Preview
 
 The following image shows the web application's appearance and functionality:
 
