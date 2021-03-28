@@ -1,6 +1,6 @@
 # Horiseon Accessibility Updates
 
->[Click here to access the updated Horiseon website](https://jocelynrem.github.io/horiseon/)
+>[Click here to access the updated Horiseon website](https://jocelynrem.github.io/code-refactor/)
 
 ## Changes
 
