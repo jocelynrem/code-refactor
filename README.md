@@ -1,5 +1,7 @@
 # Horiseon Accessibility Updates
 
+[Click here to access the updated Horiseon website](https://jocelynrem.github.io/horiseon/)
+
 ## Changes
 
 1. Images now have alt text for screen readers
