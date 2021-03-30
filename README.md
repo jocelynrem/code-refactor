@@ -2,11 +2,11 @@
 
 >[Click here to access the updated Horiseon website](https://jocelynrem.github.io/code-refactor/)
 
-## Changes
+## Updates
 
 1. Images now have alt text for screen readers
 
-2. HTML is updated for semantics
+2. Updated for semantic HTML
 
 3. CSS has been consolidated, organized, and commented
 
@@ -16,4 +16,4 @@
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/screenshot.png)
